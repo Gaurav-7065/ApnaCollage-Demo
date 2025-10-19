@@ -1,4 +1,4 @@
 # ApnaCollage-Demo
 This is my first repository.
 <br>
-Author:Gaurav jha
+Author:Gaurav jha(Coder)
